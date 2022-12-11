@@ -1,3 +1,4 @@
+<img src="https://github.com/sravya-devpro/sravya-devpro/blob/main/AI.jpg" />
 
 <h1>Hey, I am <a href="https://www.linkedin.com/in/sbhandari-dev/">Sravya Bhandari</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <img align='right' alt = "coding" src="https://miro.medium.com/max/1100/1*qdAW1TjCN57h1lbuuzvchg.gif" width="450" />
